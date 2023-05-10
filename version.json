@@ -1,1 +1,14 @@
-# vanced
+{
+  "VERSION" : {
+    "MICROG" : {
+      "REINSTALL" : TRUE,
+      "VERSION" : "",
+      "FILEURL" : ""
+    },
+    "YOUTUBE" : {
+      "REINSTALL" : TRUE,
+      "VERSION" : "",
+      "FILEURL" : ""
+    }
+  }
+}

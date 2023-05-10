@@ -1,12 +1,12 @@
 {
   "VERSION" : {
     "MICROG" : {
-      "REINSTALL" : TRUE,
+      "REINSTALL" : true,
       "VERSION" : "",
       "FILEURL" : ""
     },
     "YOUTUBE" : {
-      "REINSTALL" : TRUE,
+      "REINSTALL" : true,
       "VERSION" : "",
       "FILEURL" : ""
     }

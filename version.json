@@ -1,12 +1,12 @@
 {
-  "version" : {
-    "microg" : {
+  "Version" : {
+    "Microg" : {
       "reinstall" : true,
       "version" : "",
       "fileurl" : "",
       "filesite" : ""
     },
-    "youtube" : {
+    "Youtube" : {
       "reinstall" : true,
       "version" : "",
       "fileurl" : "",

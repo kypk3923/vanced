@@ -1,14 +1,16 @@
 {
-    "microg" : {
-      "reinstall" : true,
-      "version" : "",
-      "fileurl" : "",
-      "filesite" : ""
-    },
-    "youtube" : {
-      "reinstall" : true,
-      "version" : "",
-      "fileurl" : "",
-      "filesite" : ""
-    }
+  "microg": {
+    "reinstall": true,
+    "version": "",
+    "fileurl": "",
+    "filesite": "",
+    "urlnum": 1
+  },
+  "youtube": {
+    "reinstall": true,
+    "version": "",
+    "fileurl": "",
+    "filesite": "",
+    "urlnum": 1
+  }
 }

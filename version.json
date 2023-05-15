@@ -1,16 +1,16 @@
 {
   "microg": {
-    "reinstall": true,
-    "version": "",
-    "fileurl": "",
-    "filesite": "",
-    "urlnum": 1
+    "reinstall": false,
+    "version": "0.2.24.220220",
+    "fileurl": "https://cloud.liteapks.com/download/YouTube%20ReVanced/microg.apk",
+    "filesite": "https://liteapks.com/download/youtube-revanced-71686/3",
+    "urlnum": 3
   },
   "youtube": {
-    "reinstall": true,
-    "version": "",
-    "fileurl": "",
-    "filesite": "",
+    "reinstall": false,
+    "version": "18.17.43",
+    "fileurl": "https://cloud.liteapks.com/download/YouTube%20ReVanced/YouTube%20v18.17.43%20[Premium].apk",
+    "filesite": "https://liteapks.com/download/youtube-revanced-71686/1",
     "urlnum": 1
   }
 }
